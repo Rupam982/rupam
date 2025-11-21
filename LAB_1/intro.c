@@ -1,8 +1,9 @@
 #include <stdio.h>
 int main(){
-	printf("NISHANT DAS\n");
+	printf("RUPAM BORO\n");
 	printf("MECHANICAL ENGINEERING\n");
-	printf("MEB25035\n");
+	printf("MEB25036\n");
 	printf("TEZPUR UNIVERSITY");
 	return 0;
+
 }
